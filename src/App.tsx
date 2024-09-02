@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import './App.css';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { HashRouter as Router, Route, Routes, Link } from 'react-router-dom';
 import { auth } from './firebaseConfig';
 import { signInAnonymously, signOut, onAuthStateChanged } from 'firebase/auth';
 import SnakeGame from './games/SnakeGame';
