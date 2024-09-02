@@ -2,7 +2,7 @@
   "name": "juegos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pablog44.github.io/juegos",
+  "homepage": "https://pablog44.github.io/Juegos",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
